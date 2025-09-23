@@ -1,0 +1,27 @@
+paragrafo = <p>
+titulo principal = <h1>....<h6>
+texto em negrito = <strong> <b>
+texto sublinhado = <ins> <u>
+texto em italico = <em> <i>
+imagem = img src alt
+link = a href
+botao = <button>    
+
+
+
+    #TAGS SEMANTICAS
+
+header = cabecalho com dois dives
+
+
+main = corpo com dois dives
+aside = nao mutavel ao lado do corpo, geralmente propaganda 
+section 
+
+<footer></footer> com dois dives
+
+
+
+
+
+ 
